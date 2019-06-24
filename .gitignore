@@ -1,3 +1,6 @@
 /data/
 .ipynb_checkpoints/
-
+/other_analyses/
+test_snippet.ipynb
+.DS_Store
+scratchwork.ipynb
